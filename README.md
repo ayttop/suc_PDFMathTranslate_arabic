@@ -3,6 +3,17 @@ Translate scanned books using Olama templates for free, preserving layout, forma
 
 
 
+
+
+ollama pull translategemma:4b
+
+
+ollama serve
+
+
+
+
+
 C:\Users\m\Desktop\2\pdf2zh-v2.8.2-BabelDOC-v0.5.23-with-assets-win64\pdf2zh\site-packages\babeldoc\format\pdf\document_il\midend\il_translator_llm_only.py
 
 
